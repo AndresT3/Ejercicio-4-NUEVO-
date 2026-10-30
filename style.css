@@ -1,0 +1,36 @@
+body {
+    background:linear-gradient(90deg, rgb(103, 173, 85) 0%, rgb(233, 154, 135) 50%, rgb(240, 192, 61) 100%);
+    font-family: Cinzel Decorative Black, sans-serif;
+    text-align: center;
+}
+
+
+.contenedor {
+    margin-top: 80px;
+}
+
+
+h2 {
+    font-size: 50px;
+    color: rgb(0, 0, 0);
+}
+
+
+button {
+    padding: 12px 20px;
+    background-color: rgb(255, 187, 0);
+    color: rgb(255, 254, 254);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 0px 0px 10px rgb(56, 55, 55);
+}
+#sumar {
+    background-color: rgb(255, 251, 0);
+    color: rgb(0, 0, 0);
+}
+
+#reiniciar {
+    background-color: rgb(202, 141, 141);
+    color: rgb(0, 0, 0);
+}
